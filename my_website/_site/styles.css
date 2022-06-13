@@ -1,0 +1,11 @@
+/* Whole document: */
+body{
+  font-family: 'Literata', serif;
+  font-style: normal;
+  font-size: 14pt;
+}
+
+/* Header 1 */
+h1 {
+  font-size: 20px;
+}

@@ -1,0 +1,28 @@
+---
+title: "Clément Renoir"
+---
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Literata:wght@300&display=swap');
+</style>
+
+<div class = "row">
+<center>
+<div class = "col-md-4">
+<br><br><br>![](images/round_id.png){width=75%}
+
+
+
+</div>
+
+<div class = "col-md-8">
+<div style="text-align: justify">
+<br><br><br><br>I am a **PhD candidate** at the Chair of Economics / Resource Economics, **ETH Zurich**, under the supervision of Prof. Dr. Lucas Bretschger.
+My main research interests are: 
+Climate and Natural Resource Economics, Natural Catastrophes, and Economic Growth
+</div>
+
+</div>
+
+
+</div>

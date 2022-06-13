@@ -1,0 +1,24 @@
+name: "my-website"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      #icon: fa-home
+      href: index.html
+    - text: "Research"
+      #icon: fa-rocket
+      href: research.html
+    - text: "Teaching"
+      #icon: fa-hands-helping
+      href: teaching.html
+    - text: "Links & Contact"
+      #icon: fa-feather-alt
+      href: contact.html      
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+#    include:
+#      after_body: footer.html
+    css: styles.css

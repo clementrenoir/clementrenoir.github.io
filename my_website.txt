@@ -1,0 +1,9 @@
+<div style="text-align: center">
+<br><br><br><br>![](images/round_id.png){width=20%}
+</div>
+
+<div style="text-align: center">
+<br><br>Hello! I am a **PhD candidate** at the Chair of Economics / Resource Economics, **ETH Zurich**, under the supervision of Prof. Dr. Lucas Bretschger.
+My main research interests are: 
+Environmental, Climate and Natural Resource Economics, Spatial Economics, Energy & Innovation.
+</div>
